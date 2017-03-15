@@ -1,0 +1,1 @@
+// Defines the action types, the reducer function, and actionCreators helper functions to create actions. Note that we also moved initialState into this file (redux allows you to either pass it into your store on creation, or return it from your reducer).
